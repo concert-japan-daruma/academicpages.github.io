@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About This Project"
-excerpt: "DARUMA"
+excerpt: "About This Project"
 author_profile: true
 redirect_from: 
   - /about/
