@@ -10,4 +10,5 @@
 		- WPs: */_pages/talks.html*
 		- Deliverables - talks
 	- Consortium - teaching
-5. Edit the Home or About me page in */_pages/about.md*
+5. Edit the Home or About me page in */_pages/about.md*.
+6. Change the page path by modifying the url in */_data/navigation.yml*, the permalink in the respective *.html* or *.md* in */_pages*.
