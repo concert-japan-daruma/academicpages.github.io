@@ -1,0 +1,10 @@
+---
+title: "Sun, W., Schmöcker, J. D., & Nakao, S. (2022). Restrictive and stimulative impacts of COVID-19 policies on activity trends: A case study of Kyoto. Transportation research interdisciplinary perspectives, 13, 100551."
+collection: publications
+date: 2022-01-31
+excerpt: ''
+venue: 'Transportation Research Interdisciplinary Perspectives'
+paperurl: '/files/Sun et al TRIP COVID restrictive and stimulating policies.pdf'
+---
+
+This paper employs regression with ARIMA errors (RegARIMA) to quantify the impacts of multiple nonpharmaceutical interventions, daily new cases, seasonal and calendar effects, and other factors on activity trends across the timeline of the ongoing COVID-19 pandemic in Japan. The discussion focuses on two controversial policy sets imposed by the Japanese government that aim to contain the pandemic and to stimulate the recovery of the economy. The containing effect was achieved by stay-at-home requests and declaring a “State of Emergency” in the combat against the first waves of infectious cases. After observing reduced cases, Go-to-travel and Go-to-eat campaigns were launched in July 2020 to encourage recreational travel and to revive the economy. To better understand the impact of the policies we utilize “Google trends” which measure how much these policies are looked up online. We suggest this reflects how much they are part of the public discussion. A case study is conducted in Kyoto, a city famous for tourism. The proposed RegARIMA model is compared with linear regression and time series models. The outperformances in measuring the magnitude of intervention impacts and forecasting the future trends are confirmed by using a total of twelve activity and mobility indices as the dependent variable. Nine indices are released by Google and Apple and three are obtained from local Wi-Fi packet sensors. The effect of the State of Emergency declaration is found to erode at the second implementation, and the second stage of the Go-to-travel campaign successfully stimulated travel demand in the autumn sighting season of 2020.
