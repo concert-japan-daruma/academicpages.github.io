@@ -1,12 +1,58 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Consortium"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-{% for post in site.teaching reversed %}
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="/images/TUM.png" alt="TUM" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="BME.png" alt="BME" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="UCM.png" alt="UCM" style="width:100%">
+  </div>
+</div>
+
+<h2 style="color:green;">European Partners</h2>
+Technical Univerity of Munich, TUM School of Engineering and Design, Chair of Transportation Systems Engineering (Germany)
+
+Budapest University of Technology and Economics, Department of Control for Transportation and Vehicle Systems (Hungary)
+
+Complutense University of Madrid, Department of Geography, Transport, Infrastructure and Land-Use group (Spain)
+
+<h2 style="color:green;">Japan Partners</h2>
+Kyoto University, Department of Urban Management, Intelligent Transportation Systems Laboratory
+
+Hitachi Ltd., Intelligent Information Research Department, Center for Technology Innovation
+
+Nagoya University, NUTREND, Institute for Innovation for Future Society
+
+
+<!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

@@ -24,7 +24,7 @@ a:hover {
 
 <body>
 
-<h2>Journal</h2>
+<h2 style="color:green;">Journal</h2>
 
 <ol>
   {% for post in site.publications reversed %}
@@ -35,7 +35,7 @@ a:hover {
   {% endfor %}
 </ol>
 
-<h2>Conference</h2>
+<h2 style="color:green;">Conference</h2>
 <ol>
   {% for post in site.posts reversed %}
     <li>
