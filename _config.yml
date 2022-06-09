@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CONCERT - Japan: DARUMA"
+title                    : "EIG CONCERT - Japan: DARUMA"
 title_separator          : "-"
 name                     : &name "DARUMA"
 description              : &description "personal description"
