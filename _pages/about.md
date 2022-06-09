@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About This Project"
-excerpt: "About me"
+excerpt: "About this project"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,5 +13,5 @@ data to jointly describe mobility patterns. A second outcome is the development 
 
 The following figure illustrates the project flow, as well as the main expertise of the groups involved: 
 
-![The flowchart of DARUMA project](/images/daruma_flowchart.png)
+<img src="/images/daruma_flowchart.png" alt="drawing" style="width:200px;"/>
 
