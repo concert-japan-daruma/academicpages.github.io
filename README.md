@@ -13,3 +13,4 @@
 5. Edit the Home or About me page in */_pages/about.md*.
 6. Change the page path by modifying the url in */_data/navigation.yml*, the permalink in the respective *.html* or *.md* in */_pages*.
 7. Change the icon in */_includes/head/custom.html*.
+8. Remove the author photo ellipses sidebar in *_/layouts/single.html* after commenting line 18.
