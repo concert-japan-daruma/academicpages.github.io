@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "News"
-permalink: /portfolio/
+permalink: /news/
 author_profile: true
 ---
 
