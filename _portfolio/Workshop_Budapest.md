@@ -3,10 +3,10 @@ title: "The First On-Site Workshop was Held in Budapest"
 collection: news
 ---
 
-<figure align="center">
+<figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/group_photo.JPG"
-  alt="group_photo"  style="width:500px;">
+  alt="group_photo"  style="width:48">
   <figcaption>Group photo of all participants.</figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ According to the workshop agenda, Dr. Jan-Dirk Schmöcker from KU opened the wor
 <figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/KU_Jan-Dirk.jpg"
-  alt="Jan-Dirk"  style="width:200px;">
+  alt="Jan-Dirk"  style="width:48">
   <figcaption>Dr. Jan-Dirk Schmöcker from KU, Japan.</figcaption>
 </figure>
 
