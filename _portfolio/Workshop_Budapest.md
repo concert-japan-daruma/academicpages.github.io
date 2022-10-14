@@ -25,7 +25,7 @@ Then, Qinglong Lu from TUM presented the process of W2 (Data Assembly), for whic
 <figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/TUM_LQL.jpg"
-  alt="TUM_LQL"  style="width:200px;">
+  alt="TUM_LQL"  style="width:48">
   <figcaption>Qinglong Lu from TUM, Germany.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ In the afternoon, Dr. Gustavo Romanillos Arroyo from UCM presented the process o
 <figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/UCM_Gustavo.jpg"
-  alt="UCM_Gustavo"  style="width:200px;">
+  alt="UCM_Gustavo"  style="width:48">
   <figcaption>Dr. Gustavo Romanillos Arroyo from TUM, Germany.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ On the second day of the workshop, Dr. Tamás Tettamanti from BME presented thei
 <figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/BME_Tama.jpg"
-  alt="BME_Tama"  style="width:200px;">
+  alt="BME_Tama"  style="width:48">
   <figcaption>Dr. Tamás Tettamanti from TUM, Germany.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ After a short break, the guest scholars from the University of Luxembourg, Dr. R
 <figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/LU.jpg"
-  alt="LU"  style="width:200px;">
+  alt="LU"  style="width:48">
   <figcaption>Piergiorgio Vitello from the University of Luxembourg, Germany.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ In the afternoon, Dr. Jan-Dirk Schmöcker, Jiannan Dai, and Dr. Wenzhe Sun from 
 <figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/KU_pre.jpg"
-  alt="KU_pre"  style="width:200px;">
+  alt="KU_pre"  style="width:48">
 </figure>
 
 Finally, Dr. Jan-Dirk Schmöcker closed this workshop with a review of the goals to achieve listed at the beginning of the workshop and expressed the expectations of the DARUMA project.
