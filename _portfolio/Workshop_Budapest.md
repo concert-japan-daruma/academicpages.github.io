@@ -3,10 +3,10 @@ title: "The First On-Site Workshop was Held in Budapest"
 collection: news
 ---
 
-<figure>
+<figure align="center">
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/group_photo.JPG"
-  alt="group_photo"  style="width:200px;">
+  alt="group_photo"  style="width:500px;">
   <figcaption>Group photo of all participants.</figcaption>
 </figure>
 
