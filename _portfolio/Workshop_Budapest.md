@@ -1,5 +1,6 @@
 ---
 title: "The First On-Site Workshop was Held in Budapest"
+excerpt: ""
 collection: news
 ---
 
