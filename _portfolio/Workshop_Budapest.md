@@ -1,6 +1,8 @@
 ---
 title: "The First On-Site Workshop was Held in Budapest (2022-10-15)"
 date: 2022-10-15
+type: "Workshop"
+venue: "Budapest University of Technology and Economics, Budapest, Hungary"
 excerpt: ""
 collection: portfolio
 ---
