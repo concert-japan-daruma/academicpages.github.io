@@ -1,5 +1,5 @@
 ---
-title: "The First On-Site Workshop was Held in Budapest (2022-10-15)"
+title: "The First On-Site Workshop in Budapest"
 date: 2022-10-15
 type: "Workshop"
 venue: "Budapest University of Technology and Economics, Budapest, Hungary"
