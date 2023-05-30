@@ -57,13 +57,13 @@ This was followed by a presentation from Jiannan Dai from KU. He introduced a pr
   <figcaption>Jiannan Dai from KU, Japan.</figcaption>
 </figure>
 
-Then, Enrique Iglesias from UCM presented their work on the analysis of the resilience of urban activities during a heavy snowfall event that occurred in Madrid, Span, using GPT data. Apart from COVID-19, the DARUMA project also focused on the influence of natural disasters like snowstorms. The resilience of cities to such events is also of utmost importance to the life of citizens and the urban economy.
+Then, Enrique Iglesias from UCM presented their work on the analysis of the resilience of urban activities during a heavy snowfall event that occurred in Madrid, Spain, using GPT data. Apart from COVID-19, the DARUMA project also focused on the influence of natural disasters like snowstorms. The resilience of cities to such events is also of utmost importance to the life of citizens and the urban economy.
 
 <figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Kyoto/Daruma workshop 10.jpg"
   alt="5"  style="width:48">
-  <figcaption>Enrique Iglesias from UCM, Span.</figcaption>
+  <figcaption>Enrique Iglesias from UCM, Spain.</figcaption>
 </figure>
 
 After a short coffee break, Dr. Makoto Chikaraishi from Hiroshima University presented his research on the applicability of various machine learning models during a transportation network disruption, with a particular focus on the ability to predict traffic states and the interpretability of the results. The analysis was conducted using data obtained during a massive transport network disruption in Hiroshima in July 2018 due to heavy rain and subsequent landslides.
