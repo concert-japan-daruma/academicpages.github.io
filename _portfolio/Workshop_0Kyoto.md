@@ -34,7 +34,7 @@ Dr. Wenzhe Sun from KU continued their presentation on the development of the de
 
 <figure>
   <img
-  src="http://concert-japan-daruma.github.io/images/Kyoto/Daruma workshop 3.jpg"
+  src="http://concert-japan-daruma.github.io/images/Kyoto/Daruma workshop 4.jpg"
   alt="2"  style="width:48">
   <figcaption>Dr. Wenzhe Sun from KU, Japan.</figcaption>
 </figure>
@@ -43,7 +43,7 @@ Dr. Hiroshi Shimamoto from Miyazaki University presented work on the evaluation 
 
 <figure>
   <img
-  src="http://concert-japan-daruma.github.io/images/Kyoto/Daruma workshop 4.jpg"
+  src="http://concert-japan-daruma.github.io/images/Kyoto/Daruma workshop 8.jpg"
   alt="3"  style="width:48">
   <figcaption>Dr. Hiroshi Shimamoto from Miyazaki University, Japan.</figcaption>
 </figure>
