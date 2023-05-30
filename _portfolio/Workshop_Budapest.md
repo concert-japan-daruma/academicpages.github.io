@@ -38,7 +38,7 @@ In the afternoon, Dr. Gustavo Romanillos Arroyo from UCM presented the process o
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/UCM_Gustavo.jpg"
   alt="UCM_Gustavo"  style="width:48">
-  <figcaption>Dr. Gustavo Romanillos Arroyo from TUM, Germany.</figcaption>
+  <figcaption>Dr. Gustavo Romanillos Arroyo from UCM, Span.</figcaption>
 </figure>
 
 On the second day of the workshop, Dr. Tamás Tettamanti from BME presented their discoveries in the relationship between venue popularity and traffic flow/speed, which stirred up a heated discussion about the function of GPT data and its futuristic possibility in describing urban traffic.
@@ -46,7 +46,7 @@ On the second day of the workshop, Dr. Tamás Tettamanti from BME presented thei
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/BME_Tama.jpg"
   alt="BME_Tama"  style="width:48">
-  <figcaption>Dr. Tamás Tettamanti from TUM, Germany.</figcaption>
+  <figcaption>Dr. Tamás Tettamanti from BME, Hungary.</figcaption>
 </figure>
 
 After a short break, the guest scholars from the University of Luxembourg, Dr. Richard Connors, Piergiorgio Vitello, and Nicola Schwemmle, presented their works on GPT data, particularly on the correlation between public transport station popularity and demand (entrances and exits). A specific “signature” index was designed to measure the characteristics of public transport stations based on the popularity trends observed.
@@ -54,7 +54,7 @@ After a short break, the guest scholars from the University of Luxembourg, Dr. R
   <img
   src="http://concert-japan-daruma.github.io/images/Budapest/LU.jpg"
   alt="LU"  style="width:48">
-  <figcaption>Piergiorgio Vitello from the University of Luxembourg, Germany.</figcaption>
+  <figcaption>Piergiorgio Vitello from the University of Luxembourg, Luxembourg.</figcaption>
 </figure>
 
 In the afternoon, Dr. Jan-Dirk Schmöcker, Jiannan Dai, and Dr. Wenzhe Sun from KU, presented their works on using Twitter data to analyse the moods of people connected to travel during COVID-19, evidence of the long-term effect of COVID-19 discovered from GPT data, and the application of the GCN model in population forecast. Further, based on Sun’s presentation, all participants discussed the potential application of the GCN framework on the DARUMA project.
