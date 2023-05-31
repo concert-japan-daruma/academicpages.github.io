@@ -1,0 +1,8 @@
+---
+title: "Palomares, J. C. G., & Molinares, D. A. (2022). Nuevas formas de movilidad en la ciudad. In El mundo visto de las ciudades (pp. 583-590). Tirant Humanidades."
+collection: publications
+date: 2022
+excerpt: ''
+venue: 'El mundo visto de las ciudades'
+paperurl: 'https://dialnet.unirioja.es/servlet/articulo?codigo=8785154'
+---

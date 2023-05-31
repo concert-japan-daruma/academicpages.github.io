@@ -1,0 +1,7 @@
+---
+title: "N. Matsuoka, "COVID-19が京都に与えた影響に関する時系列分析", Annual Meeting of the JSCE Kansai Branch, online."
+collection: posts
+date: 2021
+excerpt: ''
+venue: 'Annual Meeting of the JSCE Kansai Branch'
+---

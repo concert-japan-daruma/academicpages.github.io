@@ -1,0 +1,10 @@
+---
+title: "Condeço-Melhorado, A. M., Palomares, J. C. G., Arroyo, G. R., & Puebla, J. G. (2022). Destinos ganadores y destinos perdedores en los veranos de la pandemia: Un análisis basado en datos de telefonía móvil. In Leyendo el territorio: Homenaje a Miguel Ángel Troitiño (pp. 556-568). Universidad de Guadalajara."
+collection: publications
+date: 2022
+excerpt: ''
+venue: 'Leyendo el territorio: Homenaje a Miguel Ángel Troitiño'
+paperurl: 'https://dialnet.unirioja.es/servlet/articulo?codigo=8610802'
+---
+
+La pandemia ha cambiado el escenario habitual del turismo en España. La llegada deturistas internacionales se ha visto muy limitada, cobrando un papel fundamental el turismonacional. En este artículo tratamos de evaluar la distribución de los turistas nacionales en los dosúltimos veranos. Se ha trabajado con viajes realizados por los residentes en el municipio deMadrid al resto de España en los meses de agosto de 2019, 2020 y 2021. El número de viajes hasido proporcionado por Kido Dynamics, que los ha calculado a partir de datos de telefoníamóvil. Los resultados muestran una caída del 30% en los viajes de agosto de 2020 y de un 17% en2021. Aunque hay diferencias entre los dos años, en general las grandes ciudades y las ciudadespatrimoniales han sido las principales perdedoras, en especial, aquellas de interior. Frente a ellas,destinos de costa tradicionales y las islas han tenido un impacto menor y una recuperación másrápida. Los resultados muestran que no hay una diferencia clara entre los grupos según nivel derenta, pero aparecen diferencias en determinados destinos, como las islas o la costa cantábrica. Elartículo destaca la utilidad de los datos procedentes de la telefonía móvil para el análisis de losflujos turísticos, y en particular los nuevos escenarios como consecuencia de fenómenosdisruptivos como la pandemia.
