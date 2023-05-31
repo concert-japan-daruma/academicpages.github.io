@@ -1,7 +1,7 @@
 ---
 title: "Sun, W., & Schmöcker, J. D. (2021). Demand estimation for public transport network planning. In The Routledge Handbook of Public Transport (pp. 289-305). Routledge."
 collection: publications
-date: 2021
+date: 2021-08-01
 excerpt: ''
 venue: 'The Routledge Handbook of Public Transport'
 paperurl: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9780367816698-24/demand-estimation-public-transport-network-planning-wenzhe-sun-jan-dirk-schm%C3%B6cker'
