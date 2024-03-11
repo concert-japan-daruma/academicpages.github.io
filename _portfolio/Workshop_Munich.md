@@ -10,8 +10,8 @@ paperurl: '/files/munich_agenda_full.pdf'
 
 [Download PDF](http://concert-japan-daruma.github.io/files/munich_agenda_full.pdf)
 
-<object data="http://concert-japan-daruma.github.io/files/munich_agenda_full.pdf" type="application/pdf" width="100%">
-</object>
+<!-- <object data="http://concert-japan-daruma.github.io/files/munich_agenda_full.pdf" type="application/pdf" width="100%">
+</object> -->
 
 <!-- <embed src="http://concert-japan-daruma.github.io/files/munich_agenda_full.pdf" type="application/pdf"/> -->
 
