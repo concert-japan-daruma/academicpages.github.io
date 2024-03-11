@@ -10,7 +10,9 @@ paperurl: '/files/munich_agenda_full.pdf'
 
 [Download PDF](http://concert-japan-daruma.github.io/files/munich_agenda_full.pdf)
 
-<figure>
+<embed src="http://concert-japan-daruma.github.io/files/munich_agenda_full.pdf" type="application/pdf"/>
+
+<!-- <figure>
   <img
   src="http://concert-japan-daruma.github.io/images/Munich/agenda_munich_first.jpg"
   alt="group_photo"  style="width:10">
@@ -20,5 +22,5 @@ paperurl: '/files/munich_agenda_full.pdf'
   <img
   src="http://concert-japan-daruma.github.io/images/Munich/agenda_munich_second.jpg"
   alt="group_photo"  style="width:10">
-</figure>
+</figure> -->
 
