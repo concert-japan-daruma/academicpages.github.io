@@ -1,5 +1,5 @@
 ---
-title: "The agenda of the workshop in Kyoto"
+title: "The agenda of the workshop in Munich"
 date: 2024-02-29
 type: "Workshop"
 venue: "Room 1713, Technical University of Munich, Kyoto, Japan"
@@ -7,4 +7,18 @@ excerpt: ""
 collection: portfolio
 paperurl: '/files/munich_agenda_full.pdf'
 ---
+
+<figure>
+  <img
+  src="http://concert-japan-daruma.github.io/images/Munich/agenda_munich_first.jpg"
+  alt="group_photo"  style="width:48">
+  <figcaption>Schedule of the first day.</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="http://concert-japan-daruma.github.io/images/Munich/agenda_munich_second.jpg"
+  alt="group_photo"  style="width:48">
+  <figcaption>Schedule of the second day.</figcaption>
+</figure>
 
