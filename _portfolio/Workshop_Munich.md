@@ -13,7 +13,7 @@ On the first day, we hosted a public workshop centered on the theme of "Transpor
 
 <figure>
   <img
-  src="http://concert-japan-daruma.github.io/images/Munich/Munich_group_photo.jpg"
+  src="http://concert-japan-daruma.github.io/images/Munich/Munich_group_photo.JPG"
   alt="munich_group"  style="width:48">
   <figcaption>Participants in the public workshop on the first day.</figcaption>
 </figure>
