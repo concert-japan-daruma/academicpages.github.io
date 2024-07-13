@@ -1,0 +1,10 @@
+---
+title: "Sun, W.Z., Kobayashi, H., Nakao, S. and Schmöcker, J. D. (2023). On the relationship between crowdsourced sentiments and mobility trends during COVID-19: A case study of Kyoto. Data Science for Transportation, 5:17."
+collection: publications
+date: 2023-08-12
+excerpt: ''
+venue: 'Data Science for Transportation'
+paperurl: 'https://doi.org/10.1007/s42421-023-00080-z'
+---
+
+COVID-19 has significantly changed people's attitudes and behavior in Japan. In this study, we firstly conducted a sentiment analysis on the contents of tweets posted on Twitter to understand the changes in people’s emotions due to the COVID-19 pandemic and related restriction policies. ML-ask, an open-source analysis system for textual input in Japanese, is used for this sentiment analysis. Its emotion identification is lexicon-based and can identify ten different emotions including joy, sadness, dislike, and anger. Secondly, we investigated the impacts of such “crowdsourced” sentiments on mobility and activity participation by regression models. Publicly available, also crowdsourced, Google’s COVID-19 Community Mobility Reports are used as dependent variables, and the identified tweet sentiments are used as independent variables together with other conventional variables such as dummies for policies, weekends, and holidays. As a result, it was confirmed that the changes in mobility and activity participation could be explained more accurately by the counts of tweet sentiments. The model fit was significantly improved if sentiments are added as variables, compared to the cases in which only the number of tweets or the number of daily new cases was used. In addition, we test the effect of time lag. More specifically, the model fit was higher when using the averaged emotion counts of the past 7 days than using the count of emotions on the same day. We conclude that using tweet sentiments offers the feasibility to improve the prediction levels of urban mobility.
