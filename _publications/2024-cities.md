@@ -1,7 +1,7 @@
 ---
 title: "Santiago-Iglesias, E., Romanillos, G., Sun, W., Schmöcker, J. D., Moya-Gómez, B. and García-Palomares, J.C. (2024). Light in the Darkness: Urban Nightlife, Analyzing the Impact and Recovery of COVID-19 using Mobile Phone Data. Cities. "
 collection: publications
-date: 2024
+date: 2024-12-30
 excerpt: ''
 venue: 'Cities'
 paperurl: ''

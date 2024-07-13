@@ -1,7 +1,7 @@
 ---
 title: "Lu, Q.L., Dai, J., Sun, W.Z., Schmöcker, J. D. and Antoniou, C. (2024). Framework for Evaluating Urban Resilience to Pandemics: Analysis of Transport-Related Containment Policies. Research Handbook on Transport and COVID-19."
 collection: publications
-date: 2024
+date: 2024-12-30
 excerpt: ''
 venue: 'Research Handbook on Transport and COVID-19'
 paperurl: ''
